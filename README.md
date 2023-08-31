@@ -1,16 +1,17 @@
 
 # Stack
 
-Database: Postgresql\
+Database: PostgreSQL\
 Framework: Express.js\
-Language: Typescript
+Language: TypeScript
 
 # Setup
 
-1-Create .env file in root directory and set db-uri value to your database uri
+1-Create .env file in root directory and set db-uri value to your database URI:
 
+/.env
 ```bash
-db-uri={your database uri}
+db-uri={your PostgreSQL URI}
 ```
 
 2-Install modules.
