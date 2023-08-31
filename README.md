@@ -5,7 +5,7 @@ Database: Postgresql\
 Framework: Express.js\
 Language: Typescript
 
-# Set Up
+# Setup
 
 1-Create .env file in root directory and set db-uri value to your database url
 
