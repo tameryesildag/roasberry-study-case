@@ -7,7 +7,11 @@ Language: Typescript
 
 # Setup
 
-1-Create .env file in root directory and set db-uri value to your database url
+1-Create .env file in root directory and set db-uri value to your database uri
+
+```bash
+db-uri={your database uri}
+```
 
 2-Install modules.
 
