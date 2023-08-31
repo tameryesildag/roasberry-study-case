@@ -9,13 +9,19 @@ Language: Typescript
 
 1-Create .env file in root directory and set db-uri value to your database url
 
-2-Compile the typescript files to javascript files:
+2-Install modules.
+
+```bash
+  npm install
+```
+
+3-Compile the typescript files to javascript files:
 
 ```bash
   npm run build
 ```
 
-3-Run the server:
+4-Run the server:
 
 ```bash
   npm run start
