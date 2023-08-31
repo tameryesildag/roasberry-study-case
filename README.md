@@ -1,5 +1,5 @@
 
-# Specs
+# Stack
 
 Database: Postgresql\
 Framework: Express.js\
